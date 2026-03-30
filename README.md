@@ -7,9 +7,9 @@ This repository showcases selected projects in digital communication and DSP.
 ### Viterbi Decoder
 - AWGN channel simulation
 - Hard vs Soft decision
-👉 https://github.com/yourname/viterbi-decoder-awgn
+👉 https://github.com/chanjia/viterbi-decoder
 
 ### Reed-Solomon Decoder
 - Extended Euclidean Algorithm
 - Error & erasure correction
-👉 https://github.com/yourname/reed-solomon-decoder
+👉 https://github.com/chanjia/Reed-Solomon-code-decoder
