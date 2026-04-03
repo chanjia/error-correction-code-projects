@@ -1,7 +1,4 @@
 # error-correction-code-projects
-
-This repository showcases selected projects in digital communication and DSP.
-
 ## Projects
 
 ### Viterbi Decoder
